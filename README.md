@@ -10,7 +10,7 @@ scikit-learn==0.24.0
 - /region_features_Chi.csv #regional attributes data of  Chi
 - /region_features_Sea.csv #regional attributes data of  Sea
 - /castle/ # causal discovery package
-- ./causal discovery.py              # code for causal graph discovery
+- /causal discovery.py              # code for causal graph discovery
 
 
 # code of CEVAE-based feature recovery model
